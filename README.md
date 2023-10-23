@@ -4,62 +4,83 @@ This python script emulates a Phrygian scale synthesizer based on the given note
 
 The following are the sequence of frequencies (in Hertz) played as a pyrygian scale for each of the notes in order 'C4', 'G4','F4' :
 
-The frequencies in Hz of ascending notes for C4 in the phrygian scale\
-261.6256\
-277.1826\
-311.127\
-349.2282\
-391.9954\
-415.3047\
-466.1638\
-523.2511
+<pre>
+The frequencies in Hz of ascending notes for C4 as root note in the phrygian scale
+C4   : 261.6256
+Cs4  : 277.1826
+Ds4  : 311.127 
+F4   : 349.2282
+G4   : 391.9954
+Gs4  : 415.3047
+As4  : 466.1638
+C5   : 523.2511
 
-The frequencies in Hz of descending notes for C4 in the phrygian scale\
-523.2511\
-466.1638\
-415.3047\
-391.9954\
-349.2282\
-311.127\
-277.1826\
-261.6256
+The frequencies in Hz of descending notes for C4 as root note in the phrygian scale
+C5   : 523.2511
+As4  : 466.1638
+Gs4  : 415.3047
+G4   : 391.9954
+F4   : 349.2282
+Ds4  : 311.127
+Cs4  : 277.1826
+C4   : 261.6256
 __________________
-The frequencies in Hz of ascending notes for G4 in the phrygian scale\
-391.9954\
-415.3047\
-466.1638\
-523.2511\
-587.3295\
-622.254\
-698.4565\
-783.9909
+The frequencies in Hz of ascending notes for G4 as root note in the phrygian scale
+G4   : 391.9954
+Gs4  : 415.3047
+As4  : 466.1638
+C5   : 523.2511
+D5   : 587.3295
+Ds5  : 622.254
+F5   : 698.4565
+G5   : 783.9909
 
-The frequencies in Hz of descending notes for G4 in the phrygian scale\
-783.9909\
-698.4565\
-622.254\
-587.3295\
-523.2511\
-466.1638\
-415.3047\
-391.9954
+The frequencies in Hz of descending notes for G4 as root note in the phrygian scale
+G5   : 783.9909
+F5   : 698.4565
+Ds5  : 622.254
+D5   : 587.3295
+C5   : 523.2511
+As4  : 466.1638
+Gs4  : 415.3047
+G4   : 391.9954
 __________________
-The frequencies in Hz of ascending notes for F4 in the phrygian scale\
-349.2282\
-369.9944\
-415.3047\
-466.1638\
-523.2511\
-554.3653\
-622.254\
-698.4565
+The frequencies in Hz of ascending notes for F4 as root note in the phrygian scale
+F4   : 349.2282
+Fs4  : 369.9944
+Gs4  : 415.3047
+As4  : 466.1638
+C5   : 523.2511
+Cs5  : 554.3653
+Ds5  : 622.254
+F5   : 698.4565
 
-The frequencies in Hz of descending notes for F4 in the phrygian scale\
-698.4565\
-622.254\
-554.3653\
-523.2511\
-466.1638\
-415.3047\
-369.9944\
-349.2282
+The frequencies in Hz of descending notes for F4 as root note in the phrygian scale
+F5   : 698.4565
+Ds5  : 622.254
+Cs5  : 554.3653
+C5   : 523.2511
+As4  : 466.1638
+Gs4  : 415.3047
+Fs4  : 369.9944
+F4   : 349.2282
+__________________
+The frequencies in Hz of ascending notes for C4 as root note in the phrygian scale
+C4   : 261.6256
+Cs4  : 277.1826
+Ds4  : 311.127
+F4   : 349.2282
+G4   : 391.9954
+Gs4  : 415.3047
+As4  : 466.1638
+C5   : 523.2511
+
+The frequencies in Hz of descending notes for C4 as root note in the phrygian scale
+C5   : 523.2511
+As4  : 466.1638
+Gs4  : 415.3047
+G4   : 391.9954
+F4   : 349.2282
+Ds4  : 311.127
+Cs4  : 277.1826
+C4   : 261.6256
